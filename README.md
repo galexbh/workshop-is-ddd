@@ -10,6 +10,6 @@ UNAH (Autonomous University of Honduras).
 
 - [nodejs](https://nodejs.org/es/)
 
-## Teoria
+## Theory
 
 - [Notion](https://galexbh.notion.site/Domain-Driven-Design-48e30910b3144935bf024d389de0766f)
